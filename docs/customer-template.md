@@ -1,0 +1,3 @@
+# Customer Template
+
+Hello customer.
