@@ -1,3 +1,3 @@
 # Incident Guide
 
-Escalate within 15 minutes.
+Escalate within 10 minutes.
